@@ -122,31 +122,6 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-
-Upload screenshot here:
-
-```text
-screenshots/login.png
-```
-
-### Registration Page
-
-Upload screenshot here:
-
-```text
-screenshots/register.png
-```
-
-### Social Feed
-
-Upload screenshot here:
-
-```text
-screenshots/feed.png
-```
 
 ### Create Post
 
