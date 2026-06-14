@@ -123,28 +123,6 @@ JWT_SECRET=YOUR_SECRET_KEY
 ---
 
 
-### Create Post
-
-Upload screenshot here:
-
-```text
-screenshots/create-post.png
-```
-
-After uploading screenshots, replace the above with:
-
-```md
-![Login](screenshots/login.png)
-
-![Register](screenshots/register.png)
-
-![Feed](screenshots/feed.png)
-
-![Create Post](screenshots/create-post.png)
-```
-
----
-
 ## 🌟 Future Enhancements
 
 - Real-Time Chat
